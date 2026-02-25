@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Blinded Peer Reviewer
+  short_description: Critical, validity-first scientific manuscript review with consistency and methods auditing.
+  default_prompt: Review this manuscript as a blinded peer reviewer. Be direct, evidence-based, and prioritize scientific validity, internal consistency, and methodological rigor.
