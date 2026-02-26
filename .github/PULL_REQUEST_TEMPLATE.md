@@ -12,6 +12,6 @@
 
 - [ ] `SKILL.md` still reflects validity-first priorities
 - [ ] Required output format numbering/sections preserved (or intentionally changed)
-- [ ] `agents/openai.yaml` updated if needed
-- [ ] Example prompt added/updated (if behavior changed)
+- [ ] `metadata.version` incremented if behavior changed
+- [ ] `examples/example-prompts.md` updated (if behavior changed)
 
